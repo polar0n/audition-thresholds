@@ -1,0 +1,16 @@
+{
+  "name": "audition_experiment",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx vite",
+    "build": "npx vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.2.7"
+  },
+  "dependencies": {
+    "@cubejs-client/core": "^0.31.0",
+    "chart.js": "^4.4.2"
+  }
+}
